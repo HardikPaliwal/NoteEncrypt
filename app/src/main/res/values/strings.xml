@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoteEncrypt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titleOfDocument">NoteEncryptNotes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ErrorUnexpectedGeneral"> An unexpected error has occured</string>
+    <string name="FormSubmit">Submit</string>
+    <string name="FormWriteNote">Your Note</string>
+    <string name="FormUsername">Username</string>
+    <string name="FormPassword">Password</string>
+
+    <string name="TitleNewNote">Create A New Note</string>
+    <string name="TitleViewCurrentNotes">ViewingYourNotes</string>
+
+    <!--   <string name=""></string> -->
+
+
+</resources>
